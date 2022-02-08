@@ -4,4 +4,4 @@ Spring MVC Framework 기반의 개인 프로젝트 쇼핑몰 웹 사이트입니
 <br>관리자는 상품 추가, 상품관리(수정, 삭제), 주문 확인(배송 현황 변경), Q&A 게시판 답글 달기 기능을 사용할 수 있습니다.
 <br><br>
 ## 시연 영상
-https://youtu.be/YTy-S4bC_DI
+https://youtu.be/5C1eI2Olpw8
